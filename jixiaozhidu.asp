@@ -1,49 +1,25 @@
-<!--#include virtual="/etc/dbconn.asp"-->
-<!--#include virtual="/etc/sqlInject.asp"-->
-<!--#include virtual="/etc/isLogin.asp"-->
-<!--#include virtual="/sysmgr/func.asp"-->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<HTML xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<link href="/Financial/newCaiwu/css/style.css" rel="stylesheet">
-	<link rel="stylesheet" href="/etc/c.css">
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css">
-	<script src="/Financial/newCaiwu/js/jquery-1.10.2.min.js"></script>
-	<script src="/Financial/newCaiwu/js/bootstrap.min.js"></script>
-  <!-- HTML5 shim and rspond.js IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-  <script src="js/html5shiv.js"></script>
-  <script src="js/rspond.min.js"></script>
-  <![endif]-->
-</head>
-<body>
-<br>
-sfsdfsdfsdfsdfsd
-sdfsdfsd
-Ê¤¶à¸ºÉÙ
-<ol class="breadcrumb">
-    <li><a href="/main.asp">¼¯ÍÅ×ÛºÏ¹ÜÀíÏµÍ³</a></li>
-    <li><a href="#">¼¨Ð§¼à¿Ø¹ÜÀí</a></li>
-    <li class="active">°Ù¶È´óËÑÉÌÎñ²¿</li>
+gdfgdfgdfgdsfg
+    <li class="active">ç™¾åº¦å¤§æœå•†åŠ¡éƒ¨</li>
 </ol>
  <!--body wrapper start-->
 <div class="container-fluid">
 <section class="panel">
+
+dgdsfgdsfgdfg 
 	<header class="panel-heading custom-tab turquoise-tab">
 		<ul class="nav nav-pills">
 		<li class="active" style="text-align: center;width: 18%;">
-			<a href="jixiaozhidu.asp">¼¨Ð§ÖÆ¶È</a>
+			<a href="jixiaozhidu.asp">ç»©æ•ˆåˆ¶åº¦</a>
 		</li>
 		<li  style="text-align: center;width: 18%;">
-			<a href="dailydata.asp">¹ý³Ì¼à¿Ø±íÌîÐ´</a>
+			<a href="dailydata.asp">è¿‡ç¨‹ç›‘æŽ§è¡¨å¡«å†™</a>
 		</li>
 		<li  style="text-align: center;width: 18%;">
-			<a href="dailyview.asp">¹ý³Ì¼à¿Ø±í²é¿´</a>
+			<a href="dailyview.asp">è¿‡ç¨‹ç›‘æŽ§è¡¨æŸ¥çœ‹</a>
 		</li>
 		<li class="" style="text-align: center;width: 18%;">
 			<a href="#" class=" dropdown-toggle"  data-toggle="dropdown">
-			ÈÕ±¨¹ÜÀí
+			æ—¥æŠ¥ç®¡ç†
 			<span class="caret"></span>
 			</a>
 			<ul class="dropdown-menu dropdown-menu-usermenu pull-right">
@@ -51,7 +27,7 @@ sdfsdfsd
 					<a href="dailyribao.asp">
 					<span style="color:#3ed29a">
 					<i class="glyphicon glyphicon-pencil"></i>
-					Ã¿ÈÕÈÕ±¨ÌîÐ´
+					æ¯æ—¥æ—¥æŠ¥å¡«å†™
 					</span>
 					</a>
 				</li>
@@ -59,7 +35,7 @@ sdfsdfsd
 					<a href="../ribao.asp" target="view_window">
 					<span style="color:#3ed29a">
 					<i class="glyphicon glyphicon-search"></i>
-					Ã¿ÈÕÈÕ±¨²é¿´
+					æ¯æ—¥æ—¥æŠ¥æŸ¥çœ‹
 					</span>
 					</a>
 				</li>
@@ -67,7 +43,7 @@ sdfsdfsd
 		</li>
 		<li class="" style="text-align: center;width: 18%;">
 			<a  href="#" class=" dropdown-toggle"  data-toggle="dropdown">
-			ÀúÊ·Êý¾Ý
+			åŽ†å²æ•°æ®
 			<span class="caret"></span>
 			</a>
 			<ul class="dropdown-menu dropdown-menu-usermenu pull-right">
@@ -75,7 +51,7 @@ sdfsdfsd
 			<a href="dcallvcutds.asp" target="view_window">
 			<span style="color:#3ed29a">
 			<i class="glyphicon glyphicon-pencil"></i>
-			½­ËÕÇøËÑË÷ÐÂ¿ª
+			æ±Ÿè‹åŒºæœç´¢æ–°å¼€
 			</span>
 			</a>
 			</li>
@@ -83,7 +59,7 @@ sdfsdfsd
 			<a href="dcallvcutdsgd.asp" target="view_window">
 			<span style="color:#3ed29a">
 			<i class="glyphicon glyphicon-search"></i>
-			¹ã¶«ÇøËÑË÷ÐÂ¿ª
+			å¹¿ä¸œåŒºæœç´¢æ–°å¼€
 			</span>
 			</a>
 			</li>
@@ -93,10 +69,10 @@ sdfsdfsd
 	</header>
 </section>
 <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#shangwubu" aria-controls="shangwubu" role="tab" data-toggle="tab">ÉÌÎñ²¿Ìá³É</a></li>
-	<li role="presentation" class=""><a href="#zongjingli" aria-controls="zongjingli" role="tab" data-toggle="tab">×Ü¾­Àí¼¨Ð§</a></li>
-	<li role="presentation" class=""><a href="#wangzhan" aria-controls="wangzhan" role="tab" data-toggle="tab">ÍøÕ¾½¨ÉèÌá³É</a></li>
-	<li role="presentation" class=""><a href="#dake" aria-controls="dake" role="tab" data-toggle="tab">´ó¿Í»§ÍÅ¶Ó¿¼ºË</a></li>
+    <li role="presentation" class="active"><a href="#shangwubu" aria-controls="shangwubu" role="tab" data-toggle="tab">å•†åŠ¡éƒ¨ææˆ</a></li>
+	<li role="presentation" class=""><a href="#zongjingli" aria-controls="zongjingli" role="tab" data-toggle="tab">æ€»ç»ç†ç»©æ•ˆ</a></li>
+	<li role="presentation" class=""><a href="#wangzhan" aria-controls="wangzhan" role="tab" data-toggle="tab">ç½‘ç«™å»ºè®¾ææˆ</a></li>
+	<li role="presentation" class=""><a href="#dake" aria-controls="dake" role="tab" data-toggle="tab">å¤§å®¢æˆ·å›¢é˜Ÿè€ƒæ ¸</a></li>
 </ul>
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="shangwubu">
@@ -104,19 +80,19 @@ sdfsdfsd
 <table class="tables" >
 <tr align="left" bgcolor="#edffee" height=40>
 	<td style="padding:5 3 5 3;line-height:140%;width:70%">
-		±êÌâ£ºËÑË÷ÉÌÎñ²¿¿¼ºËÖÆ¶È
-		&nbsp;<a href="zhidu.xlsx">ÏÂÔØ</a>
+		æ ‡é¢˜ï¼šæœç´¢å•†åŠ¡éƒ¨è€ƒæ ¸åˆ¶åº¦
+		&nbsp;<a href="zhidu.xlsx">ä¸‹è½½</a>
 		<br />
-		×÷Õß£ºÀîÏòÀö&nbsp;&nbsp;<br />
-		·¢²¼Ê±¼ä£º2017-6-7 8:49:45<br />
-		×îÐÂ¸üÐÂÊ±¼ä£º2021-12-15 15:55:45<br />
+		ä½œè€…ï¼šæŽå‘ä¸½&nbsp;&nbsp;<br />
+		å‘å¸ƒæ—¶é—´ï¼š2017-6-7 8:49:45<br />
+		æœ€æ–°æ›´æ–°æ—¶é—´ï¼š2021-12-15 15:55:45<br />
 		<%
-		'7.11--1.Ôö¼ÓÁËÐÂ¿ªÏû·Ñ½ð¶îÓëÌá³É¹Ò¹³£»2.Ôö¼ÓÁËÆ·ÅÆÕ¹Ê¾Àà²úÆ·ÓëÌá³É£¬½±·£¹Ò¹³
-		'7.17--1.ÐÞ¸ÄÁËÆ·ÅÆÕ¹Ê¾Àà²úÆ·ÓëÌá³É£¬½±·£¹Ò¹³
-		'7.29--1.ÐÞ¸ÄÉÌÎñ×Ü¼à²¿ÃÅÐÂµ¥ÊýÆð·£µ¥Á¿
-		'2020.0206--¹Ò¹³Ïû·Ñ½ð¶î
-		'2020.3.24µ÷ÕûÁËÉý½µ¼¶±ê×¼
-		'2021.9.20ÐÂÔöÁË·ÇcpcÀà²úÆ·ÈÎÎñ»ùÊý¼°½±·£½ð¶î
+		'7.11--1.å¢žåŠ äº†æ–°å¼€æ¶ˆè´¹é‡‘é¢ä¸ŽææˆæŒ‚é’©ï¼›2.å¢žåŠ äº†å“ç‰Œå±•ç¤ºç±»äº§å“ä¸Žææˆï¼Œå¥–ç½šæŒ‚é’©
+		'7.17--1.ä¿®æ”¹äº†å“ç‰Œå±•ç¤ºç±»äº§å“ä¸Žææˆï¼Œå¥–ç½šæŒ‚é’©
+		'7.29--1.ä¿®æ”¹å•†åŠ¡æ€»ç›‘éƒ¨é—¨æ–°å•æ•°èµ·ç½šå•é‡
+		'2020.0206--æŒ‚é’©æ¶ˆè´¹é‡‘é¢
+		'2020.3.24è°ƒæ•´äº†å‡é™çº§æ ‡å‡†
+		'2021.9.20æ–°å¢žäº†éžcpcç±»äº§å“ä»»åŠ¡åŸºæ•°åŠå¥–ç½šé‡‘é¢
 		
 		%>
 	</td>
@@ -136,15 +112,15 @@ sdfsdfsd
 <table class="tables" >
 <tr align="left" bgcolor="#edffee" height=40>
 	<td style="padding:5 3 5 3;line-height:140%;width:70%">
-		±êÌâ£º×Ü¾­Àí¼¨Ð§¿¼ºËÖÆ¶È
-		&nbsp;<a href="zongjingli.xlsx">ÏÂÔØ</a>
+		æ ‡é¢˜ï¼šæ€»ç»ç†ç»©æ•ˆè€ƒæ ¸åˆ¶åº¦
+		&nbsp;<a href="zongjingli.xlsx">ä¸‹è½½</a>
 		<br />
-		×÷Õß£ºÀîÏòÀö&nbsp;&nbsp;<br />
-		·¢²¼Ê±¼ä£º2018-10-10 9:49:45<br />
-		×îÐÂ¸üÐÂÊ±¼ä£º2021-04-14 10:26:45<br />
+		ä½œè€…ï¼šæŽå‘ä¸½&nbsp;&nbsp;<br />
+		å‘å¸ƒæ—¶é—´ï¼š2018-10-10 9:49:45<br />
+		æœ€æ–°æ›´æ–°æ—¶é—´ï¼š2021-04-14 10:26:45<br />
 		<%
-		'7.17--1.µ÷ÕûÁË½±·£ÉÏÏß
-			'2.ÐÂÔöÁË98%-100%ÕâÒ»µµµÄ½±Àø
+		'7.17--1.è°ƒæ•´äº†å¥–ç½šä¸Šçº¿
+			'2.æ–°å¢žäº†98%-100%è¿™ä¸€æ¡£çš„å¥–åŠ±
 		%>
 	</td>
 </tr>
@@ -161,15 +137,15 @@ sdfsdfsd
 <table class="tables" >
 <tr align="left" bgcolor="#edffee" height=40>
 	<td style="padding:5 3 5 3;line-height:140%;width:70%">
-		±êÌâ£ºÍøÕ¾½¨ÉèÌá³É¿¼ºËÖÆ¶È
-		&nbsp;<a href="wangzhan.xls">ÏÂÔØ</a>
+		æ ‡é¢˜ï¼šç½‘ç«™å»ºè®¾ææˆè€ƒæ ¸åˆ¶åº¦
+		&nbsp;<a href="wangzhan.xls">ä¸‹è½½</a>
 		<br/>
-		×÷Õß£ºÀîÏòÀö&nbsp;&nbsp;<br />
-		·¢²¼Ê±¼ä£º2017-7-19 8:49:45<br />
-		×îÐÂ¸üÐÂÊ±¼ä£º2020-06-24 18:14:45<br />
+		ä½œè€…ï¼šæŽå‘ä¸½&nbsp;&nbsp;<br />
+		å‘å¸ƒæ—¶é—´ï¼š2017-7-19 8:49:45<br />
+		æœ€æ–°æ›´æ–°æ—¶é—´ï¼š2020-06-24 18:14:45<br />
 		<%
-		'7.18--1.µ÷ÕûÁËÈÎÎñ»ùÊý£¬Ìá³É±ÈÀý£¬ÆÀ·Ö¹æÔò
-		'11.27--1.µ÷ÕûÁËÍøÕ¾Ìá³É¹æÔò£¬ÆÀ·Ö¹æÔò
+		'7.18--1.è°ƒæ•´äº†ä»»åŠ¡åŸºæ•°ï¼Œææˆæ¯”ä¾‹ï¼Œè¯„åˆ†è§„åˆ™
+		'11.27--1.è°ƒæ•´äº†ç½‘ç«™ææˆè§„åˆ™ï¼Œè¯„åˆ†è§„åˆ™
 		%>
 	</td>
 </tr>
@@ -187,12 +163,12 @@ sdfsdfsd
 <table class="tables" >
 <tr align="left" bgcolor="#edffee" height=40>
 	<td style="padding:5 3 5 3;line-height:140%;width:70%">
-		±êÌâ£º´ó¿Í»§ÍÅ¶Ó¿¼ºËÖ´ÐÐ±ê×¼
-		&nbsp;<a href="dake.xlsx">ÏÂÔØ</a>
+		æ ‡é¢˜ï¼šå¤§å®¢æˆ·å›¢é˜Ÿè€ƒæ ¸æ‰§è¡Œæ ‡å‡†
+		&nbsp;<a href="dake.xlsx">ä¸‹è½½</a>
 		<br/>
-		×÷Õß£ºÀîÏòÀö&nbsp;&nbsp;<br />
-		·¢²¼Ê±¼ä£º2021-4-6 13:46:45<br />
-		×îÐÂ¸üÐÂÊ±¼ä£º2021-4-6 13:46:45<br />
+		ä½œè€…ï¼šæŽå‘ä¸½&nbsp;&nbsp;<br />
+		å‘å¸ƒæ—¶é—´ï¼š2021-4-6 13:46:45<br />
+		æœ€æ–°æ›´æ–°æ—¶é—´ï¼š2021-4-6 13:46:45<br />
 		<%
 		%>
 	</td>
